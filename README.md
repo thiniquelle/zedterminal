@@ -1,0 +1,2 @@
+# zedterminal
+feature test app
